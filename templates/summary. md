@@ -1,0 +1,26 @@
+# Incident Summary Template
+
+## Case ID
+OHC-WXX-YYYY-###
+
+## Title
+[Short descriptive incident title]
+
+## Date Opened
+[YYYY-MM-DD]
+
+## Environment
+[Production / Staging / DR]
+
+## Initial Severity
+[Low / Medium / High / Critical]
+
+## Status
+[Investigating / Contained / Closed]
+
+## Executive Summary (One-Paragraph Overview)
+Briefly describe:
+- What was detected
+- Why it matters
+- Current understanding of scope
+- Immediate risk posture
